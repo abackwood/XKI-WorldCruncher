@@ -1,0 +1,77 @@
+agriculture {
+    name = "Agriculture"
+    unit = "t"
+    inputs = {}
+}
+
+bauxite {
+    name = "Bauxite Mining"
+    unit = "t"
+    inputs = {}
+}
+
+coal {
+    name = "Coal Mining"
+    unit = "t"
+    inputs = {}
+}
+
+copper {
+    name = "Copper Mining"
+    unit = "t"
+    inputs = {}
+}
+
+gold {
+    name = "Gold Mining"
+    unit = "t"
+    inputs = {}
+}
+
+iron {
+    name = "Iron Mining"
+    unit = "t"
+    inputs = {}
+}
+
+natural_gas {
+    name = "Natural Gas Extraction"
+    unit = "t"
+    inputs = {}
+}
+
+nickel {
+    name = "Nickel Mining"
+    unit = "t"
+    inputs = {}
+}
+
+oil {
+    name = "Oil Extraction"
+    unit = "bbl"
+    inputs = {}
+}
+
+platinum {
+    name = "Platinum Mining"
+    unit = "t"
+    inputs = {}
+}
+
+tungsten {
+    name = "Tungsten Mining"
+    unit = "t"
+    inputs = {}
+}
+
+uranium {
+    name = "Uranium Mining"
+    unit = "t"
+    inputs = {}
+}
+
+wood {
+    name = "Wood Industry"
+    unit = "t"
+    inputs = {}
+}

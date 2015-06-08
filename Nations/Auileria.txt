@@ -1,0 +1,37 @@
+﻿auileria {
+	name = "Auileria"
+	government {
+		percentage_of_gdp = 18.7
+		spending {
+			defence = 21
+		}
+	}
+	population {
+		population = 20,000,000
+		workforce_percentage = 74
+		unemployment = 6
+	}
+	economy {
+		gdp_per_capita = 19,572
+		production {
+			
+		}
+	}
+	technology {
+		
+	}
+	military {
+		army {
+			total = 140,000
+            active = 80,000
+		}
+		navy {
+			total = 30,000
+            active = 20,000
+		}
+		air_force {
+			total = 30,000
+            active = 5,000
+		}
+	}
+}
